@@ -12,10 +12,10 @@
         <members>*</members>
         <name>ActionLauncherItemDef</name>
     </types>
-    <types>
+    <types> 
         <members>*</members>
         <name>ActionLinkGroupTemplate</name>
-    </types>
+    </types> 
     <types>
         <members>*</members>
         <name>AnalyticSnapshot</name>
