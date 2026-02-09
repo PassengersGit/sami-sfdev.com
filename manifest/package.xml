@@ -19,7 +19,7 @@
     <types>
         <members>*</members>
         <name>AnalyticSnapshot</name>
-    </types>
+    </types> 
     <types>
         <members>*</members>
         <name>AnimationRule</name>
